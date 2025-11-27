@@ -78,8 +78,8 @@ This is an end-to-end project completed for the course.
 # 📬 Connect With Me
 If you're learning NoSQL and need help with labs, queries, or the final project, feel free to reach out.
 
-LinkedIn: [Add your link](https://www.linkedin.com/in/saad-shaikh-05244726b/)
-GitHub: [Your profile link](https://github.com/Muhammad-Saad12345)
+LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/saad-shaikh-05244726b/)
+GitHub: [My Github profile](https://github.com/Muhammad-Saad12345)
 
 # ⭐ Support
 If this repository helps you, please give it a star.
